@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Jack
 
 👨🏻‍💻 **About Me**
+
 💡 I’m a devoted learner that is enthusastic and determined to learn about new technologies, software and hardware solutions, recently I have learned React.js and TypeScript.
 
 🎓 I am currently studying Computing and Information Systems at Queen Mary, University of London.
